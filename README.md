@@ -4,3 +4,4 @@
 
 # Models
 - [ ] Flan-T5 
+- [ ] LangChain
